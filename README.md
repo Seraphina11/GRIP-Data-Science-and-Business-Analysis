@@ -1,6 +1,6 @@
 # GRIP-Data-Science-and-Business-Analysis
 
-![](logo_small.png)
+![logo_small](https://user-images.githubusercontent.com/45910682/124362366-00931400-dc52-11eb-8a7f-323714b3ed61.png)
 
 ## The Sparks Foundation Internship Program
 ### GADUATE ROTATIONAL INTERNSHIP PROGRAM (GRIP)
