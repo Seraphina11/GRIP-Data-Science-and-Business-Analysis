@@ -2,8 +2,8 @@
 
 ![](logo_small.png)
 
-# The Sparks Foundation Internship Program
-## GADUATE ROTATIONAL INTERNSHIP PROGRAM (GRIP)
+## The Sparks Foundation Internship Program
+### GADUATE ROTATIONAL INTERNSHIP PROGRAM (GRIP)
 
 
 ### Data Science and Business Analytics Internship Tasks
