@@ -5,3 +5,5 @@
 
 > The "cluster center" is the arithmetic mean of all the points belonging to the cluster.
 > Each point is closer to its own cluster center than to other cluster centers.
+
+## video link : https://youtu.be/fmEnfJebtfI
