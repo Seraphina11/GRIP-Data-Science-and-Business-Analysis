@@ -20,4 +20,4 @@ There are 3 classes representing class label of iris flower species
     <li>Iris Virginica</li>
 </OL> 
 
-## video link : https://youtu.be/fmEnfJebtfI
+## video link : https://youtu.be/zi2QEyuZTdE
