@@ -1,4 +1,4 @@
-h1>Task 3 - Exploratory Data Analysis (Retail)</h1>
+## Task 3 - Exploratory Data Analysis (Retail)</h1>
 
 <p>Task-3 This task is given by The Sparks Foundation in <b>Graduate Rotational Internship Program</b>.</p>
 
